@@ -71,6 +71,8 @@ nav:
           - Deployed Functions:
               - "advanced/evaluation_functions/index.md"
           - Alternate Function Languages: "advanced/evaluation_functions/alternate_languages.md"
+      - Response Area Sandbox:
+          - Quickstart: "advanced/response_area_sandbox/sand_box.md"
       - Chat agents:
           - Quickstart: "advanced/chatbot_agents/quickstart.md"
           - Testing Functions Locally: "advanced/chatbot_agents/local.md"

@@ -20,6 +20,12 @@ Chatbot agents are AI Assistants that students can chat with to ask for help or 
 
 [Chatbot Agents - Quickstart guide](chatbot_agents/quickstart.md){ .md-button .md-button--primary}
 
+## Response Area Sandbox
+
+The response area sandbox is a lightweight plugin for [Storybook](https://storybook.js.org/) designed for developers to build, test and interact with newly developed response areas in an isolated envrionment that closely resembles the full Lambda Feedback website. It also suppports newly developed evaluation functions to be run against these response area components. Developers can use the [template repository](https://github.com/lambda-feedback-segp-sandbox/response-area-template) with all the prerequisite setup in place to get started with the development of new response area. Click the button below to find out more!
+
+[Response Area Sandbox - Quickstart](response_area_sandbox/sand_box.md){ .md-button .md-button--primary}
+
 ## System Architecture
 
 - Technologies
