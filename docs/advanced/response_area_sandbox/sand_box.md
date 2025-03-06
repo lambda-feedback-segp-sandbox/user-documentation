@@ -33,5 +33,5 @@ $ yarn install
 
 2. Run the Storybook application:
 ```
-$ yarn storybook
+$ bash start_storybook
 ```

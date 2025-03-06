@@ -73,7 +73,8 @@ nav:
           - Alternate Function Languages: "advanced/evaluation_functions/alternate_languages.md"
       - Response Area Sandbox:
           - Quickstart: "advanced/response_area_sandbox/sand_box.md"
-          - Response Area Packages: "advanced/response_area_sandbox/publish.md"
+          - Evaluation Functions: "advanced/response_area_sandbox/using_evaluation_function.md"
+          - Submission to Lambda Feedback: "advanced/response_area_sandbox/submission.md"
       - Chat agents:
           - Quickstart: "advanced/chatbot_agents/quickstart.md"
           - Testing Functions Locally: "advanced/chatbot_agents/local.md"
